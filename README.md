@@ -2,6 +2,14 @@
 
 TerraMoor 在 ColorOS 17 的原生媒体胶囊中显示同步歌词。可调整原文和译文字号、对齐方式、前摄边缘渐隐、封面模糊和逐句动效。调整页提供日语、英语、韩语预览，支持备份和恢复配置。
 
+## 预览
+
+![原生胶囊动态预览](https://raw.githubusercontent.com/Luckyumimi/TerraMoor/main/docs/previews/capsule-preview.gif)
+
+| 应用内预览 | 系统流体云 |
+| --- | --- |
+| ![应用内胶囊](https://raw.githubusercontent.com/Luckyumimi/TerraMoor/main/docs/previews/app-capsule.png) | ![系统媒体胶囊](https://raw.githubusercontent.com/Luckyumimi/TerraMoor/main/docs/previews/system-capsule.png) |
+
 ## 已支持的设备
 
 - 机型 `PKX110`
