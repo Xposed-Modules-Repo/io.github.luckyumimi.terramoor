@@ -17,10 +17,6 @@ TerraMoor 在 ColorOS 17 的原生媒体胶囊中显示同步歌词。可调整�
 | --- | --- |
 | ![双排原文（当前句 + 下一句）](https://raw.githubusercontent.com/Luckyumimi/TerraMoor/main/docs/previews/capsule-preview-two-line-lyrics.webp) | ![关闭着色（双排翻译）](https://raw.githubusercontent.com/Luckyumimi/TerraMoor/main/docs/previews/capsule-preview-tint-off.webp) |
 
-| 应用内预览 | 系统流体云 |
-| --- | --- |
-| ![应用内胶囊](https://raw.githubusercontent.com/Luckyumimi/TerraMoor/main/docs/previews/app-capsule.png) | ![系统媒体胶囊](https://raw.githubusercontent.com/Luckyumimi/TerraMoor/main/docs/previews/system-capsule.png) |
-
 
 ## 使用方法
 
