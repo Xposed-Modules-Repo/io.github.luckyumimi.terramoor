@@ -9,7 +9,13 @@ TerraMoor 在 ColorOS 17 的原生媒体胶囊中显示同步歌词。可调整�
 
 ## 预览
 
-![原生胶囊动态预览](https://raw.githubusercontent.com/Luckyumimi/TerraMoor/main/docs/previews/capsule-preview.gif)
+| 双排歌词 + 翻译 | 单行歌词 |
+| --- | --- |
+| ![双排歌词 + 翻译](https://raw.githubusercontent.com/Luckyumimi/TerraMoor/main/docs/previews/capsule-preview.webp) | ![单行歌词](https://raw.githubusercontent.com/Luckyumimi/TerraMoor/main/docs/previews/capsule-preview-single-line.webp) |
+
+| 双排原文（当前句 + 下一句） | 关闭着色（双排翻译） |
+| --- | --- |
+| ![双排原文（当前句 + 下一句）](https://raw.githubusercontent.com/Luckyumimi/TerraMoor/main/docs/previews/capsule-preview-two-line-lyrics.webp) | ![关闭着色（双排翻译）](https://raw.githubusercontent.com/Luckyumimi/TerraMoor/main/docs/previews/capsule-preview-tint-off.webp) |
 
 | 应用内预览 | 系统流体云 |
 | --- | --- |
