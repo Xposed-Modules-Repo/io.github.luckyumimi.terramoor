@@ -1,4 +1,4 @@
-# Color lyric
+# Color lyric （原TerraMoor）
 
 Color lyric 在 ColorOS 17 的原生媒体胶囊中显示同步歌词。可调整原文和译文字号、对齐方式、前摄边缘渐隐、封面模糊和逐句动效。调整页提供日语、英语、韩语预览，支持备份和恢复配置。
 
