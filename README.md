@@ -4,18 +4,18 @@ Color lyric 在 ColorOS 17 的原生媒体胶囊中显示同步歌词。可调�
 
 模块开源地址：
 
-[https://github.com/Luckyumimi/Color lyric](https://github.com/Luckyumimi/Colorlyric)
+[https://github.com/Luckyumimi/Color lyric](https://github.com/Luckyumimi/Color-lyric)
 
 
 ## 预览
 
 | 双排歌词 + 翻译 | 单行歌词 |
 | --- | --- |
-| ![双排歌词 + 翻译](https://raw.githubusercontent.com/Luckyumimi/Colorlyric/main/docs/previews/capsule-preview.webp) | ![单行歌词](https://raw.githubusercontent.com/Luckyumimi/Colorlyric/main/docs/previews/capsule-preview-single-line.webp) |
+| ![双排歌词 + 翻译](https://raw.githubusercontent.com/Luckyumimi/Color-lyric/main/docs/previews/capsule-preview.webp) | ![单行歌词](https://raw.githubusercontent.com/Luckyumimi/Color-lyric/main/docs/previews/capsule-preview-single-line.webp) |
 
 | 双排原文（当前句 + 下一句） | 关闭着色（双排翻译） |
 | --- | --- |
-| ![双排原文（当前句 + 下一句）](https://raw.githubusercontent.com/Luckyumimi/Colorlyric/main/docs/previews/capsule-preview-two-line-lyrics.webp) | ![关闭着色（双排翻译）](https://raw.githubusercontent.com/Luckyumimi/Colorlyric/main/docs/previews/capsule-preview-tint-off.webp) |
+| ![双排原文（当前句 + 下一句）](https://raw.githubusercontent.com/Luckyumimi/Color-lyric/main/docs/previews/capsule-preview-two-line-lyrics.webp) | ![关闭着色（双排翻译）](https://raw.githubusercontent.com/Luckyumimi/Color-lyric/main/docs/previews/capsule-preview-tint-off.webp) |
 
 
 ## 使用方法
@@ -27,4 +27,4 @@ Color lyric 在 ColorOS 17 的原生媒体胶囊中显示同步歌词。可调�
 
 Root 仅用于应用内的「重启系统界面」按钮，执行前会弹出确认。歌词和配置在本机处理。
 
-源码与反馈见 [Luckyumimi/Colorlyric](https://github.com/Luckyumimi/Colorlyric)，QQ 群 `1102727864`。
+源码与反馈见 [Luckyumimi/Colorlyric](https://github.com/Luckyumimi/Color-lyric)，QQ 群 `1102727864`。
